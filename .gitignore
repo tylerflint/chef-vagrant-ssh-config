@@ -1,0 +1,11 @@
+.vagrant
+.DS_Store
+Berksfile.lock
+Gemfile.lock
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
